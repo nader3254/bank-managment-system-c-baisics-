@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1626780511 source:d:\projects\c\bank managment system\bms by me\new folder (2)\bms2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<stdbool.h>
+	<time.h>
+
+1626780928 source:g:\projects\c\bank managment system\bms by me\bank managment system by nader\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<stdbool.h>
+	<time.h>
+
